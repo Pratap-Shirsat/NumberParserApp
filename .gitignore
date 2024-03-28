@@ -1,0 +1,10 @@
+# Build artifacts
+*/bin
+*/obj
+
+# Compiled binary
+*.exe
+*.dll
+*.out
+
+.vs
